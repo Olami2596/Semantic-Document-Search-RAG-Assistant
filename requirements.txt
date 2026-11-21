@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+ollama
+fastapi
+uvicorn[standard]
+pytest 
+httpx

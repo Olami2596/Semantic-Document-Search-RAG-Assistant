@@ -1,0 +1,21 @@
+ARTIFICIAL INTELLIGENCE IN HEALTHCARE
+
+Medical Imaging:
+Artificial intelligence can help medical professionals
+analyse X-rays, CT scans, and MRI images. Machine learning
+models can identify patterns that may indicate disease.
+
+Clinical Decision Support:
+AI systems can assist healthcare professionals by analysing
+patient information and highlighting potential risks.
+These systems support clinical decisions but should not
+replace qualified medical judgement.
+
+Privacy:
+Healthcare organisations must protect patient information.
+Data should be handled securely, and personally identifiable
+information should be protected during processing.
+
+Predictive Analytics:
+Predictive models can analyse historical patient data to
+estimate the likelihood of certain health outcomes.
